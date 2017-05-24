@@ -6,6 +6,8 @@ Do you have troubles for managing thousands of photos? Are you looking for a pho
 Support import photos from iTunes file sharing.
 Automatically clear photos what need to delete, Organize photos into folders and sub folders, support look and delete screen shot quickly.
 
+Compress the large photos，can save much space with a little quality loss.
+
 It's free and powerful.
 
 ![1](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_1.png)![2](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_2.png)![3](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_3.png)![4](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_4.png)
