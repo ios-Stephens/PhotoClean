@@ -10,7 +10,7 @@ Compress the large photos，can save much space with a little quality loss.
 
 It's free and powerful.
 
-![1](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_1.png)![2](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_2.png)![3](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_3.png)![4](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_4.png)
+![1](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_1.jpeg)![2](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_2.jpeg)![3](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_3.jpeg)![4](https://github.com/ios-Stephens/PhotoClean/blob/master/iphone_4.jpeg)
 
 Supports
 -------------
