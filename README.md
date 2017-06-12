@@ -16,4 +16,4 @@ Supports
 -------------
 
 If you have any problem please contact us<br>
-E-mail：wangyujuan6882@outlook.com/<br>
+E-mail：1207645618@gmail.com<br>
