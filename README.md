@@ -1,12 +1,13 @@
 # PhotoClean
 
 
-Do you have troubles for managing thousands of photos? Are you looking for a photo portfolio app? This is exactly you are looking for...
+Powerful photo cleaning tool for mobile phones,Reduce your phone space easily 
 
-Support import photos from iTunes file sharing.
-Automatically clear photos what need to delete, Organize photos into folders and sub folders, support look and delete screen shot quickly.
-
-Compress the large photos，can save much space with a little quality loss.
+Supports the following features :
+1.Support import photos from iTunes file sharing.
+2.Automatically clear photos what need to delete.
+3.support look and delete screen shot quickly.
+4.Compress the large photos，can save much space with a little quality loss.
 
 It's free and powerful.
 
