@@ -3,10 +3,10 @@
 
 Powerful photo cleaning tool for mobile phones,Reduce your phone space easily 
 
-Supports the following features :
-1.Support import photos from iTunes file sharing.
-2.Automatically clear photos what need to delete.
-3.support look and delete screen shot quickly.
+Supports the following features :<br>
+1.Support import photos from iTunes file sharing.<br>
+2.Automatically clear photos what need to delete.<br>
+3.support look and delete screen shot quickly.<br>
 4.Compress the large photos，can save much space with a little quality loss.
 
 It's free and powerful.
